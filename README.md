@@ -54,7 +54,7 @@ A backend-heavy MERN stack application for real-time disaster coordination with 
 
 1. **Clone the repository**
 \`\`\`bash
-git clone https://github.com/yourusername/crisisnetx.git
+git clone https://github.com/anshuman018/Disaster-Response-Coordination-Platform-Assignment.git
 cd crisisnetx
 \`\`\`
 
@@ -88,7 +88,7 @@ GEMINI_API_KEY=your_gemini_api_key
 npm run dev
 \`\`\`
 
-Visit `http://localhost:3000` to see the application.
+Visit `https://alertgrid.vercel.app/` to see the application.
 
 ## 📊 Database Schema
 
